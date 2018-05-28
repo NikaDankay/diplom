@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  teacherId: MyString
+  type: 
+  forGroup: MyString
+  isActive: MyString
+  string: MyString
+
+two:
+  teacherId: MyString
+  type: 
+  forGroup: MyString
+  isActive: MyString
+  string: MyString
